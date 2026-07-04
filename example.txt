@@ -1,3 +1,0 @@
-Second line
-Testing stash
-Another change
